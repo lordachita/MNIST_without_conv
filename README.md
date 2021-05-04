@@ -11,6 +11,7 @@ More details: http://yann.lecun.com/exdb/mnist/
 
 My projects so far:
 1. [Accuracy: ] Two Layers Neural Network and Universal Approximation Theorem 
-2. [Accuracy: ] Deep Neural Network
-...
--1. [Accuracy: ] Convolutional Neural Network
+2. [Accuracy: ] Deep Neural Network 
+
+... </br>
+-1. [Accuracy: ] Convolutional Neural Network 
