@@ -4,6 +4,13 @@ Objective: To obtain XXXX XXX XXXXXXXX results on MNIST dataset, without using c
 
 This project is the first series of my portfolio. 
 
-1. Two Layers Neural Network and Universal approximation theorem [Accuracy: ]
-2. Deep Neural Network
-3.  
+## What is MNIST
+MNIST is a well-known dataset, containing images of numbers ranging from zero to nine, for multilabel classification. 
+It contains 60,000 training and 10,000 validation images of size 28x28.
+More details: http://yann.lecun.com/exdb/mnist/
+
+My projects so far:
+1. [Accuracy: ] Two Layers Neural Network and Universal Approximation Theorem 
+2. [Accuracy: ] Deep Neural Network
+...
+-1. [Accuracy: ] Convolutional Neural Network
