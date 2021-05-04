@@ -1,4 +1,4 @@
-# Classification on MNIST, without using convolution
+# Classification on MNIST dataset, without using convolution
 
 Objective: To obtain XXXX XXX XXXXXXXX results on MNIST dataset, without using convolution.
 
