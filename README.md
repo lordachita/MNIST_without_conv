@@ -11,7 +11,7 @@ More details: http://yann.lecun.com/exdb/mnist/
 
 ## My current projects 
 1. Two Layers Neural Network and Universal Approximation Theorem </br>
-First, we explain the Universal Approximation Theorem and illustrate the application of this property.
+First, we explain the Universal Approximation Theorem and illustrate the application of this property. </br>
 Then, we show how we could obtain the best accuracy based on two layers neural network. </br>
 [Accuracy : ] 
 
