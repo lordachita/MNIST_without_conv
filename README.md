@@ -4,7 +4,7 @@ Objective: To obtain XXXX XXX XXXXXXXX results on MNIST dataset, without using c
 
 ## What is MNIST
 MNIST is a well-known dataset, containing images of numbers ranging from zero to nine, for multilabel classification. 
-It contains 60,000 training and 10,000 validation images of size 28x28.
+It contains 60,000 training and 10,000 validation images of size 28x28. </br>
 More details: http://yann.lecun.com/exdb/mnist/
 
 ## My current projects 
