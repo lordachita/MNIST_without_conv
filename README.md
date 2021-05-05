@@ -1,8 +1,6 @@
 # Classification on MNIST dataset, without using convolution
 
-Objective: To obtain XXXX XXX XXXXXXXX results on MNIST dataset, without using convolution.
-
-This is the first official project of my portfolio. 
+Objective: To obtain XXXX XXX XXXXXXXX results on MNIST dataset, without using convolutions.
 
 ## What is MNIST
 MNIST is a well-known dataset, containing images of numbers ranging from zero to nine, for multilabel classification. 
@@ -11,11 +9,13 @@ More details: http://yann.lecun.com/exdb/mnist/
 
 ## My current projects 
 1. Two Layers Neural Network and Universal Approximation Theorem </br>
-First, we explain the Universal Approximation Theorem and illustrate the application of this property. </br>
-Then, we show how we could obtain the best accuracy based on two layers neural network. </br>
-[Accuracy : ] 
+First, we explain the Universal Approximation Theorem and illustrate how to implement this property for multilabels classification. </br>
+Then, we show the method to obtain the best result, only based on two layers neural network. </br>
+[Accuracy : 95.02] 
 
-2. Deep Neural Network and XXX
+2. Deep Neural Network and Universal Approximation Theorem 2
 
 ... </br>
--1. Convolutional Neural Network 
+999. Convolutional Neural Network 
+
+This is the first official project of my portfolio. 
