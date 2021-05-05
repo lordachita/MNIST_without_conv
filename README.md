@@ -8,15 +8,15 @@ It contains 60,000 training and 10,000 validation images of size 28x28. </br>
 More details: http://yann.lecun.com/exdb/mnist/
 
 ## My current projects 
-1. Two Layers Neural Network and Universal Approximation Property </br>
+01. Two Layers Neural Network and Universal Approximation Property </br>
 First, we explain the Universal Approximation Property (UP) and illustrate how to implement this property for multilabels classification. </br>
 Then, we show the method to obtain the best result, based only on two layers neural network. </br>
 [Accuracy : 95.02] </br>
 More details: https://github.com/lordachita/MNIST_without_conv/blob/main/01_Two_Layers_Neural_Network.ipynb
 
-2. Deep Neural Network and Universal Approximation Theorem 2
+02. Deep Neural Network and Universal Approximation Theorem 2
 
 ... </br>
-999. Convolutional Neural Network 
+-1. Convolutional Neural Network 
 
 This is the first official project of my portfolio. 
