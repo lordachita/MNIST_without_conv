@@ -13,7 +13,7 @@ The approach of this project will usually start from using existing theorems in 
 Then, we show how we implement this concept to acheive the goal of each work.
 
 ## My current projects 
-###01. Two Layers Neural Network and Universal Approximation Property </br>
+### 01. Two Layers Neural Network and Universal Approximation Property </br>
 First, we explain the Universal Approximation Property (UP) and illustrate how to implement this property for multilabels classification. </br>
 Then, we show the method to obtain the best result, based only on two layers neural network. </br>
 [Accuracy : 95.02] </br>
@@ -22,6 +22,6 @@ More details: https://github.com/lordachita/MNIST_without_conv/blob/main/01_Two_
 ### 02. Deep Neural Network and Universal Approximation Theorem 2
 
 ... </br>
-### -1. Convolutional Neural Network 
+### -01. Convolutional Neural Network 
 
 This is the first official project of my portfolio. 
