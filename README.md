@@ -8,8 +8,7 @@ It contains 60,000 training and 10,000 validation images of size 28x28. </br>
 More details: http://yann.lecun.com/exdb/mnist/ </br>
 [picture]
 
-## How important is this project, 
-## compared to other MNIST classification projects?
+## How important is this project, compared to other MNIST classification projects?
 The approach of this project will usually start from using existing theorems in Mathematics since the writer has a background in Mathematics. </br>
 Then, we show how we implement this concept to acheive the goal of each work.
 
