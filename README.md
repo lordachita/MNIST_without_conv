@@ -9,7 +9,7 @@ More details: http://yann.lecun.com/exdb/mnist/ </br>
 [picture]
 
 ## How important is this project, compared to other MNIST classification projects?
-The approach of this project will usually start from using existing theorems in Mathematics since the writer has a background in Mathematics. </br>
+The approach of this project will usually start from using existing theorems in Mathematics since the writer has a background in Mathematics. 
 Then, we show how we implement this concept to acheive the goal of each work.
 
 ## My current projects 
