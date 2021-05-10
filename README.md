@@ -9,13 +9,13 @@ More details: http://yann.lecun.com/exdb/mnist/ </br>
 [picture]
 
 ## How important is this project, compared to other MNIST classification projects?
-The approach of this project will usually start from using existing theorems in Mathematics since the writer has a background in Mathematics. 
-Then, we show how we implement this concept to acheive the goal of each work.
+The approach of this project usually starts from existing mathematical theorems since the writer has a long-time background in Mathematics. 
+Then, we illustrate how we implement these concepts in order to acheive the goal of each part.
 
 ## My current projects 
 ### 01. Two Layers Neural Network and Universal Approximation Property </br>
-First, we explain the Universal Approximation Property (UP) and illustrate how to implement this property for multilabels classification. </br>
-Then, we show the method to obtain the best result, based only on two layers neural network. </br>
+First, we explain the Universal Approximation Property (UAP) and illustrate how we implement this property for multilabels classification. </br>
+After that, we show how we use two layers neural network in order to obtain the best possible result. </br>
 [Accuracy : 95.02] </br>
 More details: https://github.com/lordachita/MNIST_without_conv/blob/main/01_Two_Layers_Neural_Network.ipynb
 
